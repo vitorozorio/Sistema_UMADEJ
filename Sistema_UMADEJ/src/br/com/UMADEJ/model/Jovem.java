@@ -35,5 +35,4 @@ public class Jovem {
 		this.idade = idade;
 	}
 	
-	
 }
